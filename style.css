@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #bc4bfde1;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #0a17c9;
+    --color-button-hover: #040a47;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -129,8 +129,8 @@ button {
 ul {
     list-style-type: none;
     color: var(--color-text);
-    font-family: "Inter", sans-serif;
-    font-size: 18px;
+    font-family:cursive;
+    font-size: 22px;
     margin: 20px 0;
 }
 
